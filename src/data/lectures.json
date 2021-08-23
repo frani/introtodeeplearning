@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to Deep Learning",
+    "subtitle": "Lecture 1",
+    "text": "",
+    "videoId": "5tvmMX8r_OM",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L1.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1"
+      }
+    ],
+    "image": "images/thumb/L1.gif"
+  },
+  {
+    "id": 2,
+    "title": "Deep Sequence Modeling",
+    "subtitle": "Lecture 2",
+    "text": "",
+    "videoId": "qjrad0V0uJE",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L2.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=qjrad0V0uJE&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2"
+      }
+    ],
+    "image": "images/thumb/L2.gif"
+  },
+  {
+    "id": 3,
+    "title": "Intro to TensorFlow; Music Generation",
+    "subtitle": "Software Lab 1",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/Lab1.gif"
+  },
+  {
+    "id": 4,
+    "title": "Deep Computer Vision",
+    "subtitle": "Lecture 3",
+    "text": "",
+    "videoId": "AjtX1N_VT9E",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L3.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=AjtX1N_VT9E&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=3"
+      }
+    ],
+    "image": "images/thumb/L3.gif"
+  },
+  {
+    "id": 5,
+    "title": "Deep Generative Modeling",
+    "subtitle": "Lecture 4",
+    "text": "",
+    "videoId": "BUNl0To1IVw",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L4.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4"
+      }
+    ],
+    "image": "images/thumb/L4.gif"
+  },
+  {
+    "id": 6,
+    "title": "De-biasing Facial Recognition Systems",
+    "subtitle": "Software Lab 2",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/Lab2.gif"
+  },
+  {
+    "id": 7,
+    "title": "Deep Reinforcement Learning",
+    "subtitle": "Lecture 5",
+    "text": "",
+    "videoId": "93M1l_nrhpQ",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L5.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=93M1l_nrhpQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=5"
+      }
+    ],
+    "image": "images/thumb/L5.gif"
+  },
+  {
+    "id": 8,
+    "title": "Limitations and New Frontiers",
+    "subtitle": "Lecture 6",
+    "text": "",
+    "videoId": "-boCMDouF2g",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L6.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=-boCMDouF2g&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6"
+      }
+    ],
+    "image": "images/thumb/L6.gif"
+  },
+  {
+    "id": 9,
+    "title": "Pixels-to-Control Learning",
+    "subtitle": "Software Lab 3",
+    "text": "",
+    "videoId": "toTcf7tZK8c",
+    "image": "images/thumb/Lab3.gif"
+  },
+  {
+    "id": 10,
+    "title": "Evidential Deep Learning",
+    "subtitle": "Lecture 7",
+    "text": "",
+    "videoId": "",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L7.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=toTcf7tZK8c&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=7"
+      }
+    ],
+    "image": "images/thumb/dice.gif"
+  },
+  {
+    "id": 11,
+    "title": "Bias and Fairness",
+    "subtitle": "Lecture 8",
+    "text": "",
+    "videoId": "toTcf7tZK8c",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L8.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=wmyVODy_WD8&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=8"
+      }
+    ],
+    "image": "images/thumb/bias.gif"
+  },
+  {
+    "id": 12,
+    "title": "Project Proposals",
+    "subtitle": "Work on Final Proposals",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/chalk.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Learning for Information Extraction",
+    "subtitle": "Lecture 9",
+    "text": "",
+    "videoId": "toTcf7tZK8c",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L9.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=toTcf7tZK8c&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=9"
+      }
+    ],
+    "image": "images/thumb/document.gif"
+  },
+  {
+    "id": 14,
+    "title": "Taming Dataset Bias",
+    "subtitle": "Lecture 10",
+    "text": "",
+    "videoId": "eS-OHAHOqU0",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L10.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=eS-OHAHOqU0&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=10"
+      }
+    ],
+    "image": "images/thumb/car_bias.gif"
+  },
+  {
+    "id": 15,
+    "title": "Final Project",
+    "subtitle": "Paper review",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/work.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Towards AI for 3D Content Creation",
+    "subtitle": "Lecture 11",
+    "text": "",
+    "videoId": "lkkFcg9k9ho",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L11.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=lkkFcg9k9ho&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11"
+      }
+    ],
+    "image": "images/thumb/L9.gif"
+  },
+  {
+    "id": 17,
+    "title": "AI in Healthcare",
+    "subtitle": "Lecture 12",
+    "text": "",
+    "videoId": "cvXVK8oqU4Q",
+    "links": [
+      {
+        "title": "Slides",
+        "url": "slides/6S191_MIT_DeepLearning_L12.pdf"
+      },
+      {
+        "title": "Video",
+        "url": "https://www.youtube.com/watch?v=cvXVK8oqU4Q&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=12"
+      }
+    ],
+    "image": "images/thumb/health.gif"
+  },
+  {
+    "id": 18,
+    "title": "Final Project",
+    "subtitle": "Work on Final Projects",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/work.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Project Presentations",
+    "subtitle": "Project Pitches",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/work.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Project Presentations",
+    "subtitle": "Project Pitches",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/present.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Awards Ceremony",
+    "subtitle": "Winners announced!",
+    "text": "",
+    "videoId": "",
+    "image": "images/thumb/awards.jpg"
+  }
+]
