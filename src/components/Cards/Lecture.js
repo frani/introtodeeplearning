@@ -13,7 +13,9 @@ export default function Lecture({ title, subtitle, id, date, image }) {
           alt="alternative"
         />
         <div className="card-body">
-          <div className="testimonial-author">{title}</div>
+          <div className="testimonial-author">
+            {id}. {title}
+          </div>
           {date && <p className="testimonial-text">{date}</p>}
           <div className="occupation">{subtitle}</div>
           <div className="pt-4"></div>

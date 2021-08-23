@@ -3,6 +3,7 @@ import { useHistory, useParams } from "react-router-dom";
 import YouTube from "react-youtube";
 import { useKeyPress } from "ahooks";
 import { Button } from "react-bootstrap";
+import { ChevronDown, ChevronLeft, ChevronRight } from "react-feather";
 
 import data from "../data/lectures.json";
 
@@ -60,7 +61,7 @@ export default function Lecture() {
                 disabled={!(id - 1 > 0)}
                 onClick={() => changeLecture(id - 1)}
               >
-                Prev{" "}
+                {<ChevronLeft />} Prev
               </Button>
             </div>
             <div className="col-lg-6 right">
@@ -69,7 +70,7 @@ export default function Lecture() {
                 onClick={() => changeLecture(id + 1)}
                 disabled={id === data.length}
               >
-                Next{" "}
+                Next {<ChevronRight />}
               </Button>
             </div>
           </div>
