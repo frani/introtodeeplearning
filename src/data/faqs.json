@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Are listeners allowed to attend?",
+    "anwser": "All listeners are welcome to attend! \nIf you are an MIT student, please formally register as a listener on Websis. Click here for instructions\nIf you are not an MIT student, you can still attend the course without registering."
+  },
+  {
+    "id": 2,
+    "question": "What is the grading policy?",
+    "anwser": "6.S191 is offered as a 6 units course and graded P/D/F based on completion of project proposal assignment. Listeners also welcome!"
+  },
+  {
+    "id": 3,
+    "question": "How can I register?",
+    "anwser": "If you are an MIT student please register here. You can do this by clicking \"create new form\" and selecting \"Add Drop\". Enter the subject information (6.S191) and 6 units when prompted. You can also specify if you want to be registered as a listener or regular student there. After the MIT course, the course will be made publically available to non-MIT affiliates as well. Please sign up for the mailing list to receive updates when this occurs."
+  },
+  {
+    "id": 4,
+    "question": "What pre-requisites are required?",
+    "anwser": "We are expecting very elementary knowledge of linear algebra and calculus. How to multiply matrices, take derivatives and apply the chain rule. Familiarity in Python is a big plus as well. The course will be beginner friendly since we have many registered students from outside of computer science."
+  },
+  {
+    "id": 5,
+    "question": "Is there a mailing list I can join?",
+    "anwser": "If you would like to receive course related updates and lecture materials please subscribe to our YouTube channel."
+  },
+  {
+    "id": 6,
+    "question": "Are the course materials open-source?",
+    "anwser": "All course materials available online for free but are copyrighted and licensed under the MIT license. If you are an instructor and would like to use any materials from this course (slides, labs, code), you must add the following reference to each slide:\n\n© Alexander Amini and Ava Soleimany\nMIT 6.S191: Introduction to Deep Learning\nIntroToDeepLearning.com"
+  },
+  {
+    "id": 7,
+    "question": "How do I reference these course materials?",
+    "anwser": "All course materials are copyrighted and licensed under the MIT license. If you are an instructor and would like to use any materials from this course (slides, labs, code), you must add the following reference to each slide:\n\nb© Alexander Amini and Ava Soleimany\nbMIT 6.S191: Introduction to Deep Learning\nbIntroToDeepLearning.com"
+  },
+  {
+    "id": 8,
+    "question": "How can I help teach this class?",
+    "anwser": "If you are an MIT student, postdoc, faculty, or affiliate and would like to become involved with this course please email introtodeeplearning-staff@mit.edu. We are always accepting new applications to join the course staff."
+  },
+  {
+    "id": 9,
+    "question": "How can I become a course sponsor?",
+    "anwser": "This class would not be possible without our amazing sponsors and has been sponsored by Google, IBM, NVIDIA, Ernst and Young, LambdaLabs and Onepanel. If you are interesting in becoming involved in this course as a sponsor please contact us at introtodeeplearning-staff@mit.edu."
+  },
+  {
+    "id": 10,
+    "question": "Where are the past course websites?",
+    "anwser": "To view archived versions of this website from past years please click here for 2020, 2019, 2018, and 2017."
+  }
+]
