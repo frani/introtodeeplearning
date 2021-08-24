@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "picture": "images/people/carmen.jpg ",
+    "name": "carmen Martin Alonso"
+  },
+  {
+    "id": 2,
+    "picture": "images/people/williamchen.jpg ",
+    "name": "william chen"
+  },
+  {
+    "id": 3,
+    "picture": "images/people/kristian.jpg ",
+    "name": "kristian Georgiev"
+  },
+  {
+    "id": 4,
+    "picture": "images/people/shinjini.jpg ",
+    "name": "shinjini Ghosh"
+  },
+  {
+    "id": 5,
+    "picture": "images/people/juliamoseyko.jpg ",
+    "name": "julia moseyko"
+  },
+  {
+    "id": 6,
+    "picture": "images/people/jacobphillips.jpg ",
+    "name": "jacob phillips"
+  },
+  {
+    "id": 7,
+    "picture": "images/people/ryansander.jpg ",
+    "name": "ryan sander"
+  },
+  {
+    "id": 8,
+    "picture": "images/people/sledzieski.jpg ",
+    "name": "sam sledzieski"
+  },
+  {
+    "id": 9,
+    "picture": "images/people/yang.jpg",
+    "name": "yang gilbert"
+  }
+]

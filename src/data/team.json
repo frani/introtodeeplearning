@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Alexander Amini",
+    "picture": "images/people/amini.jpg",
+    "roles": ["Lead Organizer", "Instructor"],
+    "links": {
+      "website": "https://www.mit.edu/~amini",
+      "linkedin": "https://www.linkedin.com/in/alexanderamini/",
+      "twitter": "https://twitter.com/xanamini"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ava Soleimany",
+    "picture": "/images/people/asolei.jpg",
+    "roles": ["Lead Organizer", "Instructor"],
+    "links": {
+      "website": "https://www.mit.edu/~asolei",
+      "linkedin": "https://www.linkedin.com/in/ava-soleimany-7b9946129/",
+      "twitter": "https://twitter.com/apsoleimany"
+    }
+  }
+]
